@@ -23,3 +23,5 @@ Dev & Deploy: Git, GitHub, Vercel, Netlify, GitHub Actions (CI)
 Backend basics: Next.js API routes, Node.js, Prisma / Firebase (basic)
 
 Tools: VS Code, Cursor, ESLint, Prettier,
+
+LinkedIn: https://www.linkedin.com/in/daniel-ramirez-782a311a2/
