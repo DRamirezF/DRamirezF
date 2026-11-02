@@ -4,7 +4,7 @@ I'm a Frontend Developer with a solid foundation in HTML, CSS, JavaScript and Ty
 
 🔭 Current focus
 
-Mastering React + Next.js + TypeScript for remote frontend roles.
+Mastering Angular + React + Next.js + TypeScript for remote frontend roles.
 
 Building portfolio projects (SSG/SSR, auth, performance optimizations).
 
